@@ -1,4 +1,4 @@
-# Converting SQL query results into objects — backend vs frontend
+# A modern way to efficiently execute concurrent network requests in Java
+Java server applications using virtual threads are clearly more performant than Nodejs
 
-Needless entity classes do not help but pollute and complicate Java code. Consider saving your time.
-Sample code for my post https://marian-caikovski.medium.com/converting-sql-query-results-into-objects-backend-vs-frontend-ec51109fe490 about client ORM
+Sample code for my post https://marian-caikovski.medium.com/a-modern-way-to-efficiently-execute-concurrent-network-requests-in-java-c8dceb4e7f4f assessing the performance of virtual threads
